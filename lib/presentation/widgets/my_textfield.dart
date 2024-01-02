@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:invoice/core/constant/constant.dart';
 import 'package:velocity_x/velocity_x.dart';
+import '../../utils/constant.dart';
 
 class MyTextField extends StatefulWidget {
   const MyTextField({
